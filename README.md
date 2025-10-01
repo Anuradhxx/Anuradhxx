@@ -9,7 +9,6 @@
 
  📚 Data Analysis (Python, Pandas, NumPy, Matplotlib, Seaborn)<br/>
  🧠 Machine Learning basics<br/>
- 📈 Advance Excel<br/>
  🐘 SQL - Queries, Joins, Aggregates<br/>
  
 
