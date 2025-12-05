@@ -1,4 +1,4 @@
-## Hii, I'm Anuradha Kumari
+## Hi, I'm Anuradha Kumari
 
 🎓 Pursuing BCA | Exploring the world of data & code<br/>
 💻 Python | SQL | Excel | R | Git | VS Code<br/>
